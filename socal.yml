@@ -1,13 +1,14 @@
 name: SoCal Rafting
 telephone: +1-888-537-6748
 url: 'https://www.socalrafting.com'
-email: 'Booking@socalrafting.com'
+email: 'booking@socalrafting.com'
 address:
   streetAddress: 11101 Kernville Road
   addressLocality: Kernville
   addressRegion: California
   postalCode: 93238
   url: 'https://goo.gl/maps/NTm2Tv4qDFA2'
+openingHours: Su-Th 08:00-18:00 Fr-Sa 08:00-20:00
 image:
   url: 'https://imgur.com/xLqgeP5'
 sameAs:
